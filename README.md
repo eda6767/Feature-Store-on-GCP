@@ -1,1 +1,1 @@
-# Feature-Store-on-GCP
+# Feature Store on GCP
